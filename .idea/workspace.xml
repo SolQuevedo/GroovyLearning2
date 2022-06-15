@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41227eb-25a5-461c-bb46-8d9de8e5701c" name="Changes" comment="Tercer commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.Numbers">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quevedo.cap2.Book" />
+      <module name="GroovyLearning2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quevedo.cap2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.quevedo.cap1.Fibonacci" />
       <module name="GroovyLearning2.main" />
@@ -88,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.quevedo.cap1.PrintingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quevedo.cap1.PrintingList" />
-      <module name="GroovyLearning2.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.quevedo.cap1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.quevedo.cap2.strings" />
       <module name="GroovyLearning2.main" />
@@ -115,19 +109,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Book" />
       <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.com.quevedo.cap2.Numbers" />
-      <item itemvalue="Application.com.quevedo.cap2.Regex" />
-      <item itemvalue="Application.com.quevedo.cap1.PrintingList" />
-      <item itemvalue="Application.com.quevedo.cap2.strings" />
+      <item itemvalue="Application.Numbers" />
+      <item itemvalue="Application.Regex" />
+      <item itemvalue="Application.strings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="Application.Regex" />
+        <item itemvalue="Application.strings" />
+        <item itemvalue="Application.Book" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.com.quevedo.cap1.PrintingList" />
-        <item itemvalue="Application.com.quevedo.cap2.Numbers" />
-        <item itemvalue="Application.com.quevedo.cap2.Regex" />
-        <item itemvalue="Application.com.quevedo.cap2.strings" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655266392785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tercer commit">
+      <created>1655266706283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655266706283</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tercer commit">
+      <created>1655266738081</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655266738081</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
